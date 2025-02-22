@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WN1viAVfV8oXukJ1uHQ5Mx3nDmuanaTOhdK9CpuShuM=",
+  "Source": "TariqueServer",
+  "BasePath": "_content/TariqueServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
